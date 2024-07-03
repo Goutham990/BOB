@@ -76,13 +76,3 @@ By strategically integrating generative AI, banks can streamline workflows, impr
 - **Karamtoth Goutham**
 - **Banoth Eshwar**
 
-## Contact
-
-For more information, please contact us at:
-- **Karamtoth Goutham**: [Email]
-- **Banoth Eshwar**: [Email]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
